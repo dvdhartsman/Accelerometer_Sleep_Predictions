@@ -1,6 +1,6 @@
 # Accelerometer_Sleep_Predictions
 
-<img src="sleeping_cartoon.jpg" alt="Zzzzzzzz..." style="width: 100%;">
+<img src="sleeping_cartoon.jpg" alt="Zzzzzzzz..." style="width: 100%; height=auto">
 
 ### Overview
 The purpose of this project was to predict, as precisely as possible, the exact moment that a person fell asleep or woke up given certain biometric information. In this project, I analyzed data provided by the [Healthy Brain Network](https://healthybrainnetwork.org/) containing measurements from a wrist-worn accelorometer. This data had tracking measurements of the wearer's activity (enmo) and the angle at which their arm was positioned (anglez). These measurements were updated in 5-second intervals. 
